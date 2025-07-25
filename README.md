@@ -12,11 +12,11 @@ This Tableau workbook presents a multi‑facet analysis of the COVID‑19 situat
 
 ## 📂 Dashboard Features
 
-- **State‑wise Map Visualizing Total Deaths**: Choropleth view highlighting mortality hotspots across Indian states :contentReference[oaicite:1]{index=1}  
-- **Time Series Trendlines**: Dynamic line charts showing cumulative confirmed, recovered, and death cases over time :contentReference[oaicite:2]{index=2}  
-- **Age Group Distribution**: Breakdown of cases by age categories, pointing out vulnerable segments :contentReference[oaicite:3]{index=3}  
-- **Gender-Based Analysis**: Visualization of male vs female case distribution, excluding or addressing missing values :contentReference[oaicite:4]{index=4}  
-- **State-Level Testing Data**: Insight into state-wise ICMR testing labs, total tests, and positivity rates :contentReference[oaicite:5]{index=5}  
+- **State‑wise Map Visualizing Total Deaths**: Choropleth view highlighting mortality hotspots across Indian states:contentReference[oaicite:1]{index=1}  
+- **Time Series Trendlines**: Dynamic line charts showing cumulative confirmed, recovered, and death cases over time:contentReference[oaicite:2]{index=2}  
+- **Age Group Distribution**: Breakdown of cases by age categories, pointing out vulnerable segments:contentReference[oaicite:3]{index=3}  
+- **Gender-Based Analysis**: Visualization of male vs female case distribution, excluding or addressing missing values:contentReference[oaicite:4]{index=4}  
+- **State-Level Testing Data**: Insight into state-wise ICMR testing labs, total tests, and positivity rates:contentReference[oaicite:5]{index=5}  
 - **Vaccination Rollout Metrics**:
   - First vs. second dose comparison
   - Vaccine type distribution (Covishield, Covaxin, Sputnik V) :contentReference[oaicite:6]{index=6}  
