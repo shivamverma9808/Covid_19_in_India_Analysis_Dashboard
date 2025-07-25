@@ -81,14 +81,5 @@ This Tableau workbook presents a multi‑facet analysis of the COVID‑19 situat
 
 ---
 
-## 📌 Notes
-
-- Dataset may be based up to **[your last update date]**.  
-- Some missing values exist in demographic fields; appropriate filters applied to ensure clarity in visualizations.  
-
----
-
-Feel free to edit or expand this README as needed to match your exact workbook content and structure. Happy to help further if you'd like to include technical details like filters, calculated fields, or compute logic you applied!
-
 
 
