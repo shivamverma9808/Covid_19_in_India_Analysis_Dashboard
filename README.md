@@ -9,6 +9,10 @@ An interactive and comprehensive Tableau dashboard offering deep insights into t
 This Tableau workbook presents a multi‑facet analysis of the COVID‑19 situation in India—tracking trends, demographics, testing, vaccination, and state‑wise distribution. Built to be user‑friendly, it’s ideal for researchers, policymakers, and public health professionals.
 
 ---
+## 🌐 LIVE DASHBOARD LINK
+
+Explore the fully interactive visualization here:  
+**[COVID‑19 in India Analysis Dashboard (Tableau Public View)](https://public.tableau.com/views/Covid19inIndiaAnalysisDashboard_17519544384880/Dashboard1?language=en-GB)**
 
 ## 📂 Dashboard Features
 
